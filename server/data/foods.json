@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Zinger Burger",
+    "category": "Burgers",
+    "price": 350,
+    "spiceLevel": "medium",
+    "hungerLevel": "full",
+    "vegetarian": false,
+    "moodTags": ["craving", "happy", "hungry", "satisfied"],
+    "description": "Crispy golden fried chicken fillet with fresh lettuce & mayo — the all-time favorite"
+  },
+  {
+    "id": 2,
+    "name": "Double Cheese Burger",
+    "category": "Burgers",
+    "price": 450,
+    "spiceLevel": "mild",
+    "hungerLevel": "full",
+    "vegetarian": false,
+    "moodTags": ["comfort", "celebration", "happy"],
+    "description": "Two beef patties, melted cheddar, caramelized onions — pure cheesy joy"
+  },
+  {
+    "id": 3,
+    "name": "Loaded Cheese Fries",
+    "category": "Sides",
+    "price": 300,
+    "spiceLevel": "mild",
+    "hungerLevel": "snack",
+    "vegetarian": true,
+    "moodTags": ["sharing", "fun", "happy", "snack"],
+    "description": "Crispy golden fries smothered in warm cheese sauce — perfect for sharing!"
+  },
+  {
+    "id": 4,
+    "name": "Pepperoni Pizza",
+    "category": "Pizza",
+    "price": 850,
+    "spiceLevel": "medium",
+    "hungerLevel": "full",
+    "vegetarian": false,
+    "moodTags": ["party", "friends", "happy", "hungry"],
+    "description": "Classic tomato sauce, melted mozzarella & spicy pepperoni slices"
+  },
+  {
+    "id": 5,
+    "name": "Chicken Shawarma Roll",
+    "category": "Wraps & Rolls",
+    "price": 280,
+    "spiceLevel": "medium",
+    "hungerLevel": "medium",
+    "vegetarian": false,
+    "moodTags": ["quick", "on-the-go", "satisfied"],
+    "description": "Tender spiced chicken, garlic sauce & veggies wrapped in soft flatbread"
+  },
+  {
+    "id": 6,
+    "name": "Peri Peri Chicken Wings",
+    "category": "Sides",
+    "price": 400,
+    "spiceLevel": "hot",
+    "hungerLevel": "medium",
+    "vegetarian": false,
+    "moodTags": ["bold", "spicy", "social"],
+    "description": "Juicy wings tossed in fiery peri-peri sauce — for spice lovers only!"
+  },
+  {
+    "id": 7,
+    "name": "Chicken Fajita Wrap",
+    "category": "Wraps & Rolls",
+    "price": 380,
+    "spiceLevel": "medium",
+    "hungerLevel": "full",
+    "vegetarian": false,
+    "moodTags": ["fresh", "healthy", "satisfied"],
+    "description": "Sizzling chicken, peppers & onions with creamy sauce in a soft tortilla"
+  },
+  {
+    "id": 8,
+    "name": "BBQ Chicken Pizza",
+    "category": "Pizza",
+    "price": 900,
+    "spiceLevel": "mild",
+    "hungerLevel": "full",
+    "vegetarian": false,
+    "moodTags": ["sweet-savory", "family", "celebration"],
+    "description": "Smoky BBQ sauce base, grilled chicken & red onions — sweet and savory"
+  },
+  {
+    "id": 9,
+    "name": "Spicy Veggie Burger",
+    "category": "Burgers",
+    "price": 280,
+    "spiceLevel": "medium",
+    "hungerLevel": "medium",
+    "vegetarian": true,
+    "moodTags": ["fresh", "budget", "healthy"],
+    "description": "Crisp vegetable patty with spicy sauce & fresh veggies — full of flavor"
+  },
+  {
+    "id": 10,
+    "name": "Creamy Mushroom Pizza",
+    "category": "Pizza",
+    "price": 800,
+    "spiceLevel": "mild",
+    "hungerLevel": "full",
+    "vegetarian": true,
+    "moodTags": ["comfort", "gentle", "cozy"],
+    "description": "White sauce base, sautéed mushrooms, garlic & herbs — rich and earthy"
+  },
+  {
+    "id": 11,
+    "name": "Garlic Bread",
+    "category": "Sides",
+    "price": 200,
+    "spiceLevel": "mild",
+    "hungerLevel": "snack",
+    "vegetarian": true,
+    "moodTags": ["comfort", "snack", "sharing"],
+    "description": "Warm, buttery bread loaded with garlic & herbs — impossible to stop eating"
+  },
+  {
+    "id": 12,
+    "name": "Oreo Milkshake",
+    "category": "Drinks & Desserts",
+    "price": 320,
+    "spiceLevel": "mild",
+    "hungerLevel": "snack",
+    "vegetarian": true,
+    "moodTags": ["sweet", "treat", "happy", "celebration"],
+    "description": "Creamy vanilla shake blended with crushed Oreo cookies — dessert in a glass"
+  },
+  {
+    "id": 13,
+    "name": "Chicken Nuggets (6pc)",
+    "category": "Sides",
+    "price": 250,
+    "spiceLevel": "mild",
+    "hungerLevel": "snack",
+    "vegetarian": false,
+    "moodTags": ["quick", "fun", "snack"],
+    "description": "Crispy bite-sized chicken — perfect with your favorite dipping sauce"
+  },
+  {
+    "id": 14,
+    "name": "Loaded Nachos",
+    "category": "Sides",
+    "price": 350,
+    "spiceLevel": "medium",
+    "hungerLevel": "snack",
+    "vegetarian": true,
+    "moodTags": ["sharing", "party", "fun"],
+    "description": "Crunchy tortilla chips topped with melted cheese, salsa & jalapeños"
+  },
+  {
+    "id": 15,
+    "name": "Chocolate Brownie Sundae",
+    "category": "Drinks & Desserts",
+    "price": 380,
+    "spiceLevel": "mild",
+    "hungerLevel": "snack",
+    "vegetarian": true,
+    "moodTags": ["sweet", "celebration", "treat", "happy"],
+    "description": "Warm fudgy brownie topped with vanilla ice cream & chocolate drizzle"
+  }
+]
