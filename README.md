@@ -20,7 +20,7 @@ An interactive, multi-scene restaurant application built with React + Vite. Expl
 
 ## 📂 Project Structure
 
-```text
+
 MoodMunchAI/
 ├── client/
 │   ├── src/
@@ -35,6 +35,7 @@ MoodMunchAI/
 ├── README.md                   # ← This file
 ├── LICENSE
 └── .gitignore
+
 
 🚀 Getting Started
 Prerequisites
@@ -94,8 +95,9 @@ Order history & analytics
 Customer feedback system
 
 Built with ❤️ — Mood Munch AI
-### 2. `LICENSE`
-```text
+
+LICENSE`
+
 MIT License
 
 Copyright (c) 2026 Qursam Bibi
